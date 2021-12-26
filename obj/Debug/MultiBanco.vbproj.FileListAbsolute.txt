@@ -1,0 +1,193 @@
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\MultiBanco.exe.config
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\MultiBanco.exe
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\MultiBanco.pdb
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\MultiBanco.xml
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\MySql.Data.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Zstandard.Net.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Renci.SshNet.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.Build.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\System.Buffers.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\System.Collections.Immutable.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\System.Memory.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\MySql.Data.xml
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.exe.config
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormAdministrador.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormGestaoNotas.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormGestaoSQL.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormHistTransferenciasEnviadas.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormLevantar.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormTransferir.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormUtilizador.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.Resources.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.GenerateResource.cache
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.CoreCompileInputs.cache
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.CopyComplete
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.exe
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.xml
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.pdb
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormHistTransferenciasRecebidas.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormLogin.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormBalancoDiario.resources
+C:\Users\miner\source\repos\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbprojAssemblyReference.cache
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\MultiBanco.exe.config
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\MultiBanco.exe
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\MultiBanco.pdb
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\MultiBanco.xml
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Zstandard.Net.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Renci.SshNet.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.Build.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\System.Buffers.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\System.Collections.Immutable.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\System.Memory.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\MySql.Data.xml
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbprojAssemblyReference.cache
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.exe.config
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormBalancoDiario.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormLogin.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormAdministrador.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormGestaoNotas.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormGestaoSQL.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormHistTransferenciasEnviadas.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormHistTransferenciasRecebidas.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormLevantar.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormTransferir.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormUtilizador.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.Resources.resources
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.GenerateResource.cache
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.CoreCompileInputs.cache
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.CopyComplete
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.exe
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.xml
+C:\Users\miner\OneDrive\Ambiente de Trabalho\FCT\MultiBanco\MultiBanco\obj\Debug\MultiBanco.pdb
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\MultiBanco.exe.config
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\MultiBanco.exe
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\MultiBanco.pdb
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\MultiBanco.xml
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Zstandard.Net.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Renci.SshNet.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.Build.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Buffers.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Text.Json.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Memory.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\MySql.Data.xml
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbprojAssemblyReference.cache
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.exe.config
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormBalancoDiario.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormLogin.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormAdministrador.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormGestaoNotas.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormGestaoSQL.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormHistTransferenciasEnviadas.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormHistTransferenciasRecebidas.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormLevantar.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormTransferir.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.FormUtilizador.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.Resources.resources
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.GenerateResource.cache
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.CoreCompileInputs.cache
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.vbproj.CopyComplete
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.exe
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.xml
+C:\Users\Rafa\Downloads\Multibanco FCT Rafael Sousa 11ºTSI\MultiBanco\MultiBanco\obj\Debug\MultiBanco.pdb
